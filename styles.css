@@ -8,11 +8,22 @@ h1{
   font-weight: bold;
 }
 
+h2{
+  padding: 1px;
+  text-align: center;
+  font-family: Lobster;
+  font-size:24px;
+  color: slategray;
+  font-weight: normal;
+  font-weight: bold;
+}
+
 div{
     align-self: center;
 }
 
 img {
+  float: right;
     padding: 8px;
     background-color: slategray;
     display: block;
