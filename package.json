@@ -1,0 +1,19 @@
+{
+  "name": "demoncowgirl.github.io",
+  "version": "1.0.0",
+  "description": "https://linkedin.com/in/bethj-salvatore<br> https://github.com/demoncowgirl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demoncowgirl/demoncowgirl.github.io.git"
+  },
+  "author": "Beth Salvatore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demoncowgirl/demoncowgirl.github.io/issues"
+  },
+  "homepage": "https://github.com/demoncowgirl/demoncowgirl.github.io#readme"
+}
